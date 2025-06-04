@@ -1,0 +1,9 @@
+
+# Material for Table_wooden.obj
+newmtl TableWoodenMaterial
+Ka 0.6 0.4 0.2
+Kd 0.8 0.6 0.4
+Ks 1.0 1.0 1.0
+Ns 100.0
+d 1.0
+illum 2
